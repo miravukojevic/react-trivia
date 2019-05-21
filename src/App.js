@@ -1,12 +1,9 @@
 import React, { Component }  from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Welcome from './components/Welcome';
-import { 
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  withRouter } from 'react-router-dom';
+import Setup from './components/Setup';
+import { Route,
+  Switch } from 'react-router-dom';
 
 class App extends Component {
   render() {
@@ -14,6 +11,7 @@ class App extends Component {
         <div className="App">
           <Switch>
               <Route exact path="/" component={Welcome} />
+              <Route exact path="/setup" component={Setup} />
           </Switch>
         </div>
       );
