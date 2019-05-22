@@ -1,0 +1,27 @@
+.Mira {
+    background: #ef5350;
+    width: 1000px;
+    margin: 200px auto 0 auto;
+    padding: 20px 50px 30px;
+    border-radius: 5px;
+    width: 860px
+}
+body{
+    background: #1e1a19;
+    color: #fff
+}
+.button {
+    background-color: #1e1a19;
+    border-color: #1e1a19;
+    border: none;
+    margin-top: 20px;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 20px;
+    cursor: pointer
+}
+.img{
+    margin: 0 auto;
+    display: block
+}
