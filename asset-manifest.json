@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/miravukojevic/react-trivia/static/css/main.a5f60f65.chunk.css",
-    "main.js": "/miravukojevic/react-trivia/static/js/main.c43d03d0.chunk.js",
-    "main.js.map": "/miravukojevic/react-trivia/static/js/main.c43d03d0.chunk.js.map",
-    "runtime~main.js": "/miravukojevic/react-trivia/static/js/runtime~main.d23cf76e.js",
-    "runtime~main.js.map": "/miravukojevic/react-trivia/static/js/runtime~main.d23cf76e.js.map",
-    "static/js/2.b980ab02.chunk.js": "/miravukojevic/react-trivia/static/js/2.b980ab02.chunk.js",
-    "static/js/2.b980ab02.chunk.js.map": "/miravukojevic/react-trivia/static/js/2.b980ab02.chunk.js.map",
-    "index.html": "/miravukojevic/react-trivia/index.html",
-    "precache-manifest.41780fb9a414eeeb740088d12f6766ce.js": "/miravukojevic/react-trivia/precache-manifest.41780fb9a414eeeb740088d12f6766ce.js",
-    "service-worker.js": "/miravukojevic/react-trivia/service-worker.js",
-    "static/css/main.a5f60f65.chunk.css.map": "/miravukojevic/react-trivia/static/css/main.a5f60f65.chunk.css.map",
-    "static/media/brainstorm.png": "/miravukojevic/react-trivia/static/media/brainstorm.7328a5f0.png"
+    "main.css": "/react-trivia/static/css/main.a5f60f65.chunk.css",
+    "main.js": "/react-trivia/static/js/main.aa4cd8eb.chunk.js",
+    "main.js.map": "/react-trivia/static/js/main.aa4cd8eb.chunk.js.map",
+    "runtime~main.js": "/react-trivia/static/js/runtime~main.46ce7e89.js",
+    "runtime~main.js.map": "/react-trivia/static/js/runtime~main.46ce7e89.js.map",
+    "static/js/2.b980ab02.chunk.js": "/react-trivia/static/js/2.b980ab02.chunk.js",
+    "static/js/2.b980ab02.chunk.js.map": "/react-trivia/static/js/2.b980ab02.chunk.js.map",
+    "index.html": "/react-trivia/index.html",
+    "precache-manifest.6daf3653dfd2f175003c371f844c8ef8.js": "/react-trivia/precache-manifest.6daf3653dfd2f175003c371f844c8ef8.js",
+    "service-worker.js": "/react-trivia/service-worker.js",
+    "static/css/main.a5f60f65.chunk.css.map": "/react-trivia/static/css/main.a5f60f65.chunk.css.map",
+    "static/media/brainstorm.png": "/react-trivia/static/media/brainstorm.7328a5f0.png"
   }
 }
