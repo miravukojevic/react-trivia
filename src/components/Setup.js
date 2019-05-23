@@ -26,9 +26,11 @@ class Setup extends Component {
         
       }
       nextQuestion= () => {
-        this.setState({
-            showItems: this.state.showItems + 1,
-            score: this.state.score + 1
+        this.setState((state) => {
+          return{
+            showItems: state.showItems + 1,
+            score: state.score + 1
+          }
         })
       }
       nextQuestionWrongAnswer= () => {
